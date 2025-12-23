@@ -26,7 +26,7 @@ A lightweight and easy-to-use hitbox detection system for Roblox Studio, designe
 4. Set its value to a `Folder` inside **Workspace**.
 
 [Download LunoxHit.lua](https://raw.githubusercontent.com/LunarDevloper/Lunox---Hit-box-system/main/LunoxHit.rbxm)
---/LunarDevloper/Lunox---Hit-box-system/blob/main/LunoxHit.rbxm
+
 Example:
 ```
 
