@@ -73,7 +73,10 @@ Hitbox:StartHitBox(true)
 ```
 
 ### Debug Visualization
+
 <img width="440" height="253" alt="image" src="https://github.com/user-attachments/assets/6cb74847-44ac-454b-8ca7-f121a92bcb0e" />
+
+
 ```lua
 Hitbox:SimulateHitBox()
 ```
