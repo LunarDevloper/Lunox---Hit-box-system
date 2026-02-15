@@ -1,6 +1,10 @@
 
 # Lunox Hitbox System
 
+
+<img width="1024" height="1024" alt="20260215_1157_Image Generation_remix_01khgwvbfxfmq854st5cr7481h" src="https://github.com/user-attachments/assets/8f4ce4f9-5dec-4be0-ad7e-a4f0017f8aa4" />
+
+
 A lightweight and easy-to-use hitbox detection system for Roblox Studio, designed for real-time combat, skills, and interaction mechanics.
 
 ---
